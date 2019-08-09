@@ -1,2 +1,2 @@
-# JuliaSet
-Plot and compute Julia set in MATLAB
+MatLab
+Creating graphs for Julia Sets and Filled Julia Sets.
